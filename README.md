@@ -1,5 +1,7 @@
 # About Titanic Dataset
 
+![Logo]([https://github.com/yashh2417/Yash/blob/main/data.jpg?raw=true](https://github.com/yashh2417/Titanic/blob/main/titanic.jpg))
+
 ### Description:
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
